@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: lephp\n"
+"POT-Creation-Date: 2016-05-18 18:10+0800\n"
+"PO-Revision-Date: 2016-05-05 14:57+0800\n"
+"Last-Translator: \n"
+"Language-Team: leEco\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: application/plugins\n"
+"X-Poedit-SearchPath-1: public\n"
+"X-Poedit-SearchPath-2: libraries\n"
+
+#: libraries/L10N/Locale.php:105 libraries/L10N/Locale.php:121
+#: libraries/L10N/Locale.php:141
+msgid "Sunday"
+msgstr ""
+
+#: libraries/L10N/Locale.php:107 libraries/L10N/Locale.php:123
+#: libraries/L10N/Locale.php:143
+msgid "Monday"
+msgstr ""
+
+#: libraries/L10N/Locale.php:109 libraries/L10N/Locale.php:125
+#: libraries/L10N/Locale.php:145
+msgid "Tuesday"
+msgstr ""
+
+#: libraries/L10N/Locale.php:111 libraries/L10N/Locale.php:127
+#: libraries/L10N/Locale.php:147
+msgid "Wednesday"
+msgstr ""
+
+#: libraries/L10N/Locale.php:113 libraries/L10N/Locale.php:129
+#: libraries/L10N/Locale.php:149
+msgid "Thursday"
+msgstr ""
+
+#: libraries/L10N/Locale.php:115 libraries/L10N/Locale.php:131
+#: libraries/L10N/Locale.php:151
+msgid "Friday"
+msgstr ""
+
+#: libraries/L10N/Locale.php:117 libraries/L10N/Locale.php:133
+#: libraries/L10N/Locale.php:153
+msgid "Saturday"
+msgstr ""
+
+#: libraries/L10N/Locale.php:122
+msgid "S_Sunday_initial"
+msgstr ""
+
+#: libraries/L10N/Locale.php:124
+msgid "M_Monday_initial"
+msgstr ""
+
+#: libraries/L10N/Locale.php:126
+msgid "T_Tuesday_initial"
+msgstr ""
+
+#: libraries/L10N/Locale.php:128
+msgid "W_Wednesday_initial"
+msgstr ""
+
+#: libraries/L10N/Locale.php:130
+msgid "T_Thursday_initial"
+msgstr ""
+
+#: libraries/L10N/Locale.php:132
+msgid "F_Friday_initial"
+msgstr ""
+
+#: libraries/L10N/Locale.php:134
+msgid "S_Saturday_initial"
+msgstr ""
+
+#: libraries/L10N/Locale.php:142
+msgid "Sun"
+msgstr ""
+
+#: libraries/L10N/Locale.php:144
+msgid "Mon"
+msgstr ""
+
+#: libraries/L10N/Locale.php:146
+msgid "Tue"
+msgstr ""
+
+#: libraries/L10N/Locale.php:148
+msgid "Wed"
+msgstr ""
+
+#: libraries/L10N/Locale.php:150
+msgid "Thu"
+msgstr ""
+
+#: libraries/L10N/Locale.php:152
+msgid "Fri"
+msgstr ""
+
+#: libraries/L10N/Locale.php:154
+msgid "Sat"
+msgstr ""
+
+#: libraries/L10N/Locale.php:158 libraries/L10N/Locale.php:184
+msgid "January"
+msgstr ""
+
+#: libraries/L10N/Locale.php:160 libraries/L10N/Locale.php:186
+msgid "February"
+msgstr ""
+
+#: libraries/L10N/Locale.php:162 libraries/L10N/Locale.php:188
+msgid "March"
+msgstr ""
+
+#: libraries/L10N/Locale.php:164 libraries/L10N/Locale.php:190
+msgid "April"
+msgstr ""
+
+#: libraries/L10N/Locale.php:166 libraries/L10N/Locale.php:192
+msgid "May"
+msgstr ""
+
+#: libraries/L10N/Locale.php:168 libraries/L10N/Locale.php:194
+msgid "June"
+msgstr ""
+
+#: libraries/L10N/Locale.php:170 libraries/L10N/Locale.php:196
+msgid "July"
+msgstr ""
+
+#: libraries/L10N/Locale.php:172 libraries/L10N/Locale.php:198
+msgid "August"
+msgstr ""
+
+#: libraries/L10N/Locale.php:174 libraries/L10N/Locale.php:200
+msgid "September"
+msgstr ""
+
+#: libraries/L10N/Locale.php:176 libraries/L10N/Locale.php:202
+msgid "October"
+msgstr ""
+
+#: libraries/L10N/Locale.php:178 libraries/L10N/Locale.php:204
+msgid "November"
+msgstr ""
+
+#: libraries/L10N/Locale.php:180 libraries/L10N/Locale.php:206
+msgid "December"
+msgstr ""
+
+#: libraries/L10N/Locale.php:185
+msgid "Jan_January_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:187
+msgid "Feb_February_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:189
+msgid "Mar_March_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:191
+msgid "Apr_April_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:193
+msgid "May_May_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:195
+msgid "Jun_June_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:197
+msgid "Jul_July_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:199
+msgid "Aug_August_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:201
+msgid "Sep_September_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:203
+msgid "Oct_October_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:205
+msgid "Nov_November_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:207
+msgid "Dec_December_abbreviation"
+msgstr ""
+
+#: libraries/L10N/Locale.php:214
+msgid "am"
+msgstr ""
+
+#: libraries/L10N/Locale.php:215
+msgid "pm"
+msgstr ""
+
+#: libraries/L10N/Locale.php:216
+msgid "AM"
+msgstr ""
+
+#: libraries/L10N/Locale.php:217
+msgid "PM"
+msgstr ""
+
+#: libraries/L10N/Locale.php:223
+msgid "number_format_thousands_sep"
+msgstr ""
+
+#: libraries/L10N/Locale.php:227
+msgid "number_format_decimal_point"
+msgstr ""
+
+#: libraries/L10N/Locale.php:234
+msgctxt "text direction"
+msgid "ltr"
+msgstr ""
+
+#: libraries/L10N/Locale.php:409
+msgid "F j, Y"
+msgstr ""
+
+#: libraries/L10N/Locale.php:411
+msgid "g:i a"
+msgstr ""
+
+#: libraries/L10N/Locale.php:413
+msgid "F j, Y g:i a"
+msgstr ""

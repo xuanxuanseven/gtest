@@ -1,0 +1,34 @@
+{
+  "name": "lephp/l10n",
+  "description": "localization solution",
+  "authors": [
+    {
+      "name": "Wei Zhu",
+      "email": "zhuwei1@le.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "lephp/lephp": "~1.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "L10N\\": "src/"
+    }
+  },
+  "repositories": {
+    "1": {
+      "type": "composer",
+      "url": "http://10.11.146.138:8899"
+    },
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "config": {
+    "secure-http": false
+  },
+  "extra": {
+  }
+}

@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tv_safe\n"
+"POT-Creation-Date: 2016-11-15 11:47+0800\n"
+"PO-Revision-Date: 2016-11-15 11:47+0800\n"
+"Last-Translator: \n"
+"Language-Team: LeEco\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../controllers\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Ajsendsms.php:57
+msgid "card id error"
+msgstr "联名福利不存在"
+
+#: Ajsendsms.php:76 Smsloginswitch.php:57 Smsloginswitch.php:73
+msgid "Invalid Login Token"
+msgstr "尚未登录"
+
+#: Ajsendsms.php:95
+msgid "mobile error"
+msgstr "手机号错误"
+
+#: Ajsendsms.php:118 Ajsendsms.php:129
+msgid "card info error"
+msgstr "联名福利不存在"
+
+#: Ajsendsms.php:144
+msgid "send sms fail"
+msgstr "请勿频繁操作"
+
+#: Smsloginswitch.php:83
+msgid "open sms login status error"
+msgstr "开启失败"
+
+#: Smsloginswitch.php:85
+msgid "close sms login status error"
+msgstr "关闭失败"
+
+#: Smsloginswitch.php:108
+msgid "bad status"
+msgstr "非法设置"
+
+#~ msgid "update sms login status error"
+#~ msgstr "更新失败"

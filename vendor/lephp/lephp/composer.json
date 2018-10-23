@@ -1,0 +1,55 @@
+{
+  "name": "lephp/lephp",
+  "description": "A framework based on Yaf for LeEco User Center",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yi Gong",
+      "email": "gongyi@le.com"
+    },
+    {
+      "name": "Yishu Gong",
+      "email": "gongyishu@le.com"
+    },
+    {
+      "name": "Wei Zhu",
+      "email": "zhuwei1@le.com"
+    },
+    {
+      "name": "Bo Yang",
+      "email": "yangbo9@le.com"
+    },
+    {
+      "name": "Lishuang Wang",
+      "email": "wanglishuang@le.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Lephp\\": "src/"
+    },
+    "files": [
+      "src/Lephp.php",
+      "src/PluginInject.php"
+    ]
+  },
+  "require": {
+    "guzzlehttp/guzzle": "6.2.1"
+  },
+  "require-dev": {
+    "codeception/codeception": "2.2.7"
+  },
+  "repositories": {
+    "0": {
+      "type": "composer",
+      "url": "http://10.11.146.138:8899"
+    },
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "extra": {
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "lephp/smarty",
+  "description": "Smarty Adapter for lephp",
+  "minimum-stability": "stable",
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Wei Zhu",
+      "email": "zhuwei1@le.com"
+    }
+  ],
+  "require": {
+    "lephp/l10n": "~1.1.0",
+    "lephp/lephp": "~1.1.0",
+    "smarty/smarty": "3.1.29"
+  },
+  "autoload": {
+    "files": [
+      "src\/plugins\/block.l10n.php",
+      "src\/SmartyAdapter.php",
+      "src\/Smarty.php"
+    ],
+    "psr-4": {
+      "Lephp\\Plugins\\Smarty\\": "src/"
+    }
+  },
+  "repositories": {
+    "0": {
+      "type": "composer",
+      "url": "http://10.11.146.138:8899"
+    },
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "config": {
+    "secure-http": false
+  }
+}
